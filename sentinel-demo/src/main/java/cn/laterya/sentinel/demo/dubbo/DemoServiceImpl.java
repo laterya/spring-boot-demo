@@ -1,4 +1,4 @@
-package cn.laterya.demo.dubbo;
+package cn.laterya.sentinel.demo.dubbo;
 
 public class DemoServiceImpl implements DemoService {
     @Override

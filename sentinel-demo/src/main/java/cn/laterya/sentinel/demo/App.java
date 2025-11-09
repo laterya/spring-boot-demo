@@ -1,4 +1,4 @@
-package cn.laterya;
+package cn.laterya.sentinel.demo;
 
 import com.alibaba.csp.sentinel.Entry;
 import com.alibaba.csp.sentinel.SphU;

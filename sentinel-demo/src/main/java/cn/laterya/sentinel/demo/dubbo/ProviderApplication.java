@@ -1,4 +1,4 @@
-package cn.laterya.demo.dubbo;
+package cn.laterya.sentinel.demo.dubbo;
 
 import com.alibaba.csp.sentinel.init.InitExecutor;
 import com.alibaba.csp.sentinel.slots.block.RuleConstant;

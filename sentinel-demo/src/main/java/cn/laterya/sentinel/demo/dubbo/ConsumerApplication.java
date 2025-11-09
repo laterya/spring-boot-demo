@@ -1,4 +1,4 @@
-package cn.laterya.demo.dubbo;
+package cn.laterya.sentinel.demo.dubbo;
 
 import org.apache.dubbo.config.bootstrap.builders.ReferenceBuilder;
 
